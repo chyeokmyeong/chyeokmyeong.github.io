@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "최지혁"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/이름_없는_아트워크.png"
   bio              : "I am blink."
   location         : "광야"
   email            : "foxgomson@naver.com"
